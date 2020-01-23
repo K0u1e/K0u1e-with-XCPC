@@ -1,3 +1,4 @@
+## CCPC-Wannafly-Winter-Camp-Day2
 - [X] A - 托米的字符串
 - [ ] B - 萨博的方程式
 - [X] C - 纳新一百的石子游戏

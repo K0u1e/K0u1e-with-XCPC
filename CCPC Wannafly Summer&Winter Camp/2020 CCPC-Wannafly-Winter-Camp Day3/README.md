@@ -1,6 +1,6 @@
 ## 2020 CCPC-Wannafly-Winter-Camp Day3
 - [X] A - 黑色气球
-- [ ] B - 小吨的点分治
+- [X] B - 小吨的点分治
 - [X] C - 无向图定向
 - [X] D - 求和
 - [X] E - 棋技哥

@@ -1,0 +1,15 @@
+## 2020 CCPC-Wannafly-Winter-Camp Day6
+- [X] A - Convolution
+- [ ] B - 双圈覆盖
+- [ ] C - 酒馆战棋
+- [ ] D - 递增递增
+- [ ] E - Access
+- [X] F - 图与三角形
+- [X] G - 单调栈
+- [X] H - 异或询问
+- [ ] I - 变大！
+- [X] J - K重排列
+- [X] K - 最大权值排列
+- [ ] L - 你吓到我的马了.jpg
+- [ ] M - 自闭
+- [ ] N - 合并！

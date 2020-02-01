@@ -1,0 +1,11 @@
+## 2020 CCPC-Wannafly-Winter-Camp Day5
+- [X] A - Alternative Accounts
+- [ ] B - Bitset Master
+- [ ] C - Self-Adjusting Segment Tree
+- [ ] D - Circle Union
+- [X] E - Matching Problem
+- [ ] F - Inversion Pairs
+- [X] G - Cryptographically Secure PRNG
+- [ ] H - Geometry PTSD
+- [ ] I - Practice for KD Tree
+- [X] J - Xor on Figures

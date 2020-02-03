@@ -22,6 +22,15 @@
 - [ ] [P5518 [MtOI2019]幽灵乐团](https://www.luogu.com.cn/problem/P5518)
 
 ## 字符串
+### AC自动机
+- [ ] [P5840 [COCI2015]Divljak](https://www.luogu.com.cn/problem/P5840)
+- [ ] [P4045 [JSOI2009]密码](https://www.luogu.com.cn/problem/P4045)
+- [ ] [P2536 [AHOI2005]病毒检测](https://www.luogu.com.cn/problem/P2536)
+- [ ] [P3715 [BJOI2017]魔法咒语](https://www.luogu.com.cn/problem/P3715)
+- [ ] [P3121 [USACO15FEB]审查（黄金）Censoring (Gold)](https://www.luogu.com.cn/problem/P3121)
+- [ ] [P3041 [USACO12JAN]视频游戏的连击Video Game Combos](https://www.luogu.com.cn/problem/P3041)
+- [ ] [P3167 [CQOI2014]通配符匹配](https://www.luogu.com.cn/problem/P3167)
+- [ ] [P5319 [BJOI2019]奥术神杖](https://www.luogu.com.cn/problem/P5319)
 ### 后缀自动机
 - [ ] [P4287 [SHOI2011]双倍回文](https://www.luogu.com.cn/problem/P4287)
 - [ ] [P4762 [CERC2014]Virus synthesis](https://www.luogu.com.cn/problem/P4762)
@@ -34,6 +43,7 @@
 - [ ] [P4248 [AHOI2013]差异](https://www.luogu.com.cn/problem/P4248)
 - [ ] [P4770 [NOI2018]你的名字](https://www.luogu.com.cn/problem/P4770)
 - [ ] [P5212 SubString](https://www.luogu.com.cn/problem/P5212)
+- [ ] [P5341 [TJOI2019]甲苯先生和大中锋的字符串](https://www.luogu.com.cn/problem/P5337)
 - [ ] [P5576 [CmdOI2019]口头禅](https://www.luogu.com.cn/problem/P5576)
 ### 回文自动机
 - [ ] [P4287 [SHOI2011]双倍回文](https://www.luogu.com.cn/problem/P4287)

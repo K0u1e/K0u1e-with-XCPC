@@ -1,4 +1,5 @@
-## 莫比乌斯反演
+## 数论
+### 莫比乌斯反演
 - [ ] [P1829 [国家集训队]Crash的数字表格 / JZPTAB](https://www.luogu.com.cn/problem/P1829)
 - [ ] [P2257 YY的GCD](https://www.luogu.com.cn/problem/P2257)
 - [ ] [P2522 [HAOI2011]Problem b](https://www.luogu.com.cn/problem/P2522)
@@ -19,3 +20,23 @@
 - [ ] [P4916 [MtOI2018]魔力环](https://www.luogu.com.cn/problem/P4916)
 - [ ] [P5221 Product](https://www.luogu.com.cn/problem/P5221)
 - [ ] [P5518 [MtOI2019]幽灵乐团](https://www.luogu.com.cn/problem/P5518)
+
+## 字符串
+### 后缀自动机
+- [ ] [P4287 [SHOI2011]双倍回文](https://www.luogu.com.cn/problem/P4287)
+- [ ] [P4762 [CERC2014]Virus synthesis](https://www.luogu.com.cn/problem/P4762)
+- [ ] [P5555 秩序魔咒](https://www.luogu.com.cn/problem/P5555)
+- [ ] [P5685 [JSOI2013]快乐的 JYY](https://www.luogu.com.cn/problem/P5685)
+- [ ] [P3975 [TJOI2015]弦论](https://www.luogu.com.cn/problem/P3975)
+- [ ] [P4022 [CTSC2012]熟悉的文章](https://www.luogu.com.cn/problem/P4022)
+- [ ] [P4081 [USACO17DEC]Standing Out from the Herd](https://www.luogu.com.cn/problem/P4081)
+- [ ] [P4112 [HEOI2015]最短不公共子串](https://www.luogu.com.cn/problem/P4112)
+- [ ] [P4248 [AHOI2013]差异](https://www.luogu.com.cn/problem/P4248)
+- [ ] [P4770 [NOI2018]你的名字](https://www.luogu.com.cn/problem/P4770)
+- [ ] [P5212 SubString](https://www.luogu.com.cn/problem/P5212)
+- [ ] [P5576 [CmdOI2019]口头禅](https://www.luogu.com.cn/problem/P5576)
+### 回文自动机
+- [ ] [P4287 [SHOI2011]双倍回文](https://www.luogu.com.cn/problem/P4287)
+- [ ] [P4762 [CERC2014]Virus synthesis](https://www.luogu.com.cn/problem/P4762)
+- [ ] [P5555 秩序魔咒](https://www.luogu.com.cn/problem/P5555)
+- [ ] [P5685 [JSOI2013]快乐的 JYY](https://www.luogu.com.cn/problem/P5685)

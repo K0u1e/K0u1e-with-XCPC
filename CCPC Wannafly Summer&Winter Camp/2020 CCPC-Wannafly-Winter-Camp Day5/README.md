@@ -1,6 +1,6 @@
 ## 2020 CCPC-Wannafly-Winter-Camp Day5
 - [X] A - Alternative Accounts
-- [ ] B - Bitset Master
+- [X] B - Bitset Master
 - [ ] C - Self-Adjusting Segment Tree
 - [ ] D - Circle Union
 - [X] E - Matching Problem

@@ -2,8 +2,8 @@
 ### 莫比乌斯反演
 - [X] [P1829 [国家集训队]Crash的数字表格 / JZPTAB](https://www.luogu.com.cn/problem/P1829)
 - [X] [P2257 YY的GCD](https://www.luogu.com.cn/problem/P2257)
-- [ ] [P2522 [HAOI2011]Problem b](https://www.luogu.com.cn/problem/P2522)
-- [ ] [P3172 [CQOI2015]选数](https://www.luogu.com.cn/problem/P3172)
+- [X] [P2522 [HAOI2011]Problem b](https://www.luogu.com.cn/problem/P2522)
+- [X] [P3172 [CQOI2015]选数](https://www.luogu.com.cn/problem/P3172)
 - [ ] [P3312 [SDOI2014]数表](https://www.luogu.com.cn/problem/P3312)
 - [ ] [P3327 [SDOI2015]约数个数和](https://www.luogu.com.cn/problem/P3327)
 - [ ] [P3455 [POI2007]ZAP-Queries](https://www.luogu.com.cn/problem/P3455)

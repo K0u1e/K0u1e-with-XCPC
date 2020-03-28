@@ -8,7 +8,7 @@ struct SAM{
     }
     void init(){
         tot=0;
-        last=root=newnode(0,0);
+        last=root=newnode(0);
     }
     void extend(int x,int ep){
         int p=last; int cur=newnode(len[p]+1);
@@ -21,7 +21,7 @@ struct SAM{
             int q=next[p][x];
             if(len[q]==len[p]+1) fa[cur]=q;
             else{
-                int tmp = newnode(len[p]+1,0);
+                int tmp = newnode(len[p]+1);
                 memcpy(next[tmp],next[q],sizeof(next[q]));
                 fa[tmp]=fa[q]; fa[q]=fa[cur]=tmp;
                 while(p!=-1&&next[p][x]==q){
